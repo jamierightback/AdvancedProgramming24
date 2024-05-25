@@ -17,3 +17,5 @@ User's access path to be copied for **Aria_2004-2021.xlsx** and to be placed in 
 User's access path to be copied for **2001_2022_NO2__STATISTICHE.xlsx** and to be placed in **line 192**.
 
 User's access path to be copied for **2002_2022_PM10__STATISTICHE.xlsx** and to be placed in **line 193**.
+
+Then, by simply **running the code** we get access to a **link to the dashboard app**.

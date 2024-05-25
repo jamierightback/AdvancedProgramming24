@@ -1,9 +1,7 @@
 This is the repository of my capstone project on the evolution of air quality in urban congestion charging cities.  
-The python code "#finalised project" renders a dashboard of the project's results.
-
+The python code "#finalised project" renders a dashboard of the project's results.  
 **The six Excel files contain the data for the project and are to be downloaded.**  
-**This python code requires that the user inserts the Excel files manually by using his/her own access path.**
-
+**This python code requires that the user inserts the Excel files manually by using his/her own access path.**  
 **Should be done as follows:**
 
 **The user's göteborgPM10.xlsx access path** should be copied and placed **in code's line 19** instead of "C:\Users\James Curtin\OneDrive\Documents\advanced programming\göteborgPM10.xlsx" (the developper's own access path).

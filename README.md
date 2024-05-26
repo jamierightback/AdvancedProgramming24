@@ -8,14 +8,14 @@ The python code "#finalised project" renders a dashboard of the project's result
 
 User's access path to be copied for **göteborgNO2.xlsx** and to be placed in **line 20**.
 
-User's access path to be copied for **NO2_tables_2021secondshot.xlsx** and to be placed in **line 87**.
+User's access path to be copied for **NO2_tables_2021secondshot.xlsx** and to be placed in **line 73**.
 
-User's access path to be copied for **PM10_tables_2021.xlsx** and to be placed in **line 88**.
+User's access path to be copied for **PM10_tables_2021.xlsx** and to be placed in **line 74**.
 
-User's access path to be copied for **Aria_2004-2021.xlsx** and to be placed in **line 146**.
+User's access path to be copied for **Aria_2004-2021.xlsx** and to be placed in **line 121**.
 
-User's access path to be copied for **2001_2022_NO2__STATISTICHE.xlsx** and to be placed in **line 192**.
+User's access path to be copied for **2001_2022_NO2__STATISTICHE.xlsx** and to be placed in **line 150**.
 
-User's access path to be copied for **2002_2022_PM10__STATISTICHE.xlsx** and to be placed in **line 193**.
+User's access path to be copied for **2002_2022_PM10__STATISTICHE.xlsx** and to be placed in **line 151**.
 
 Then, by simply **running the code** we get access to the **dashboard app link**.
